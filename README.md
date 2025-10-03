@@ -12,7 +12,8 @@ This repository explores a **neurobiologically inspired model** of distributed A
 
 ### 🧩 Conceptual Architecture
 
-![Conceptual Architecture](docs/25_10_03_ganglia_model_diagram.png)
+![Conceptual Architecture](docs/ganglia_model_diagram.png)
+
 
 *Figure: Speculative model of distributed AI subjectivity. Peripheral sensory cells (user interactions, sensors) feed into local ganglia (autonomous agents). These aggregate into intermediate hubs, which may give rise to a global workspace — and potentially emergent subjectivity.*
 - **Peripheral sensory cells** → user interactions and external data streams act as inputs.  
